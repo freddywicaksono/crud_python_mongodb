@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "63e06d8cab74cf7455dac1ac"
+  },
+  "nim": "1001",
+  "nama": "Freddy",
+  "jk": "L",
+  "prodi": "TIF"
+},{
+  "_id": {
+    "$oid": "63e06f16ab74cf7455dac1b2"
+  },
+  "nim": "1003",
+  "nama": "Fitri",
+  "jk": "L",
+  "prodi": "IND"
+},{
+  "_id": {
+    "$oid": "63e06f16ab74cf7455dac1b3"
+  },
+  "nim": "1004",
+  "nama": "Ahmad",
+  "jk": "P",
+  "prodi": "TIF"
+},{
+  "_id": {
+    "$oid": "63e06f16ab74cf7455dac1b4"
+  },
+  "nim": "1005",
+  "nama": "Budiman",
+  "jk": "L",
+  "prodi": "PET"
+},{
+  "_id": {
+    "$oid": "63e06f16ab74cf7455dac1b5"
+  },
+  "nim": "1006",
+  "nama": "Rahma Yanti",
+  "jk": "P",
+  "prodi": "TIF"
+},{
+  "_id": {
+    "$oid": "63e06f16ab74cf7455dac1b6"
+  },
+  "nim": "1007",
+  "nama": "Sukarni Joe",
+  "jk": "P",
+  "prodi": "IND"
+},{
+  "_id": {
+    "$oid": "63e075cbd2cb105478198643"
+  },
+  "nim": "2001",
+  "nama": "Fachri H",
+  "jk": "L",
+  "prodi": "TIF"
+},{
+  "_id": {
+    "$oid": "63e076bb95e07d37d822ebf5"
+  },
+  "nim": "2002",
+  "nama": "Susi Susanti",
+  "jk": "P",
+  "prodi": "TIF"
+}]
